@@ -258,6 +258,7 @@
 			
 			return custom_shape;
 		}
+		*/
 		
 		// ...
 	}
